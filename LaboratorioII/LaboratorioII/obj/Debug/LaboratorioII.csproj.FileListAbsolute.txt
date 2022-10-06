@@ -1,0 +1,11 @@
+C:\Users\adoX1\Documents\GitHub\LaboratorioII\LaboratorioII\LaboratorioII\bin\Debug\LaboratorioII.exe.config
+C:\Users\adoX1\Documents\GitHub\LaboratorioII\LaboratorioII\LaboratorioII\bin\Debug\LaboratorioII.exe
+C:\Users\adoX1\Documents\GitHub\LaboratorioII\LaboratorioII\LaboratorioII\bin\Debug\LaboratorioII.pdb
+C:\Users\adoX1\Documents\GitHub\LaboratorioII\LaboratorioII\LaboratorioII\obj\Debug\LaboratorioII.csproj.AssemblyReference.cache
+C:\Users\adoX1\Documents\GitHub\LaboratorioII\LaboratorioII\LaboratorioII\obj\Debug\LaboratorioII.csproj.SuggestedBindingRedirects.cache
+C:\Users\adoX1\Documents\GitHub\LaboratorioII\LaboratorioII\LaboratorioII\obj\Debug\LaboratorioII.Form1.resources
+C:\Users\adoX1\Documents\GitHub\LaboratorioII\LaboratorioII\LaboratorioII\obj\Debug\LaboratorioII.Properties.Resources.resources
+C:\Users\adoX1\Documents\GitHub\LaboratorioII\LaboratorioII\LaboratorioII\obj\Debug\LaboratorioII.csproj.GenerateResource.cache
+C:\Users\adoX1\Documents\GitHub\LaboratorioII\LaboratorioII\LaboratorioII\obj\Debug\LaboratorioII.csproj.CoreCompileInputs.cache
+C:\Users\adoX1\Documents\GitHub\LaboratorioII\LaboratorioII\LaboratorioII\obj\Debug\LaboratorioII.exe
+C:\Users\adoX1\Documents\GitHub\LaboratorioII\LaboratorioII\LaboratorioII\obj\Debug\LaboratorioII.pdb
